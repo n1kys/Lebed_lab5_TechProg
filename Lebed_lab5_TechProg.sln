@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lebed_lab5_TechProg", "Lebed_lab5_TechProg\Lebed_lab5_TechProg.csproj", "{CAF36179-499C-4BA4-83DC-FBF880ADA38D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAF36179-499C-4BA4-83DC-FBF880ADA38D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF36179-499C-4BA4-83DC-FBF880ADA38D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF36179-499C-4BA4-83DC-FBF880ADA38D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF36179-499C-4BA4-83DC-FBF880ADA38D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A9784B0-9DFC-469B-9C7C-861DADA59720}
+	EndGlobalSection
+EndGlobal
